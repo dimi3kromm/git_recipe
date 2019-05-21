@@ -17,8 +17,6 @@ for file in filenames:
 
 ### ... continued offline
 
-A very nice recipe!
-
 - avocado
 - onion
 - salt & pepper
