@@ -11,7 +11,7 @@
 - 1/2 teaspoon curry powder
 - crushed pepper
 
-
+just use chickpeas
 
 
 
