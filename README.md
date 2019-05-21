@@ -14,3 +14,11 @@ An example repository for introductory **Git** training
 for file in filenames:
   print(file)
 ```
+
+# A Recipe for Guacamole
+
+- avocado
+- onion
+- salt & pepper
+
+Put into a bowl and mix.
