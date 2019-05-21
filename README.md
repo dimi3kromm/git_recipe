@@ -15,7 +15,7 @@ for file in filenames:
   print(file)
 ```
 
-# A Recipe for Guacamole
+### ... continued offline
 
 - avocado
 - onion
