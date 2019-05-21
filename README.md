@@ -15,11 +15,13 @@ for file in filenames:
   print(file)
 ```
 
-### ... continued offline
+### Ingredients:
 
 - avocado
 - onion
 - salt & pepper
 - tomatoess
 
-Put into a bowl and mix.
+### Instrunctions:
+
+Scoop out avocado, chop onions, mix with salt & pepper. Finally, put into a bowl and mix.
